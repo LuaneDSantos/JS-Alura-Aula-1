@@ -1,0 +1,1 @@
+O projeto foi desenvolvido durante o curso "Mergulhe em Programação com JavaScript" da Alura, como parte do módulo ONE. Nele, foram aplicados conceitos fundamentais de lógica de programação, como alertas, prompts, estruturas de repetição e melhores práticas em JavaScript.
